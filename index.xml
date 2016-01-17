@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi,Raygo.</title>
+    <link>http://hiraygo.github.io/</link>
+    <description>Recent content on Hi,Raygo.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jan 2016 09:37:20 +0800</lastBuildDate>
+    <atom:link href="http://hiraygo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://hiraygo.github.io/about/</link>
+      <pubDate>Sun, 17 Jan 2016 09:37:20 +0800</pubDate>
+      
+      <guid>http://hiraygo.github.io/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-headline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;A headline&lt;/h2&gt;
+
+&lt;p&gt;Some Content&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
